@@ -3,8 +3,7 @@ package com.example.imagepickerlib
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
-import androidx.fragment.app.Fragment
-import com.github.dhaval2404.imagepicker.ImagePicker
+import com.github.bhailal.imagepicker.ImagePicker
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
